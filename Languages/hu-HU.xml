@@ -916,7 +916,7 @@
 		FoldersError="Egyes fájlok nem érhetők el. Ide kattintva megtekintheti a részleteket."
 		/>
   <Value Id="AboutView"
-		Donate="Készíts egy adomány!"
+		Donate="Adomány küldése!"
 		Scraper="Scrapers:"
 		Other="Egyéb:"
 		Links="Hasznos linkek:"
@@ -925,7 +925,7 @@
 		SearchByTitle="Cím azonosítja"
 		SearchById="Azonosító meghatározása"
 		Search="Szálláshelyek keresése"
-		Title="Azonosítása"
+		Title="Azonosítás"
 		/>
   <Value Id="WizardActivateToken"
 		Header="Van egy Zappiti-játékosnak?"
@@ -942,7 +942,7 @@
   <Value Id="ZappitiPlayerConfigView"
 		Release="Ingyenes"
 		YourTokens="Itt van a lista a fiókjához társított aktiválás kód. Akkor engedje őket újra egy másik fiókkal. Kapni fog egy visszaigazoló e-mailben."
-		Activate="Aktiválása"
+		Activate="Aktiválás"
 		Body="Belép a aktiválás kód (Zappiti lejátszó Token) ci alul-hoz hatékonnyá tesz a Zappiti-játékosnak. "
 		Congratulation="Felication, a aktiválás kód vették fel."
 		/>
